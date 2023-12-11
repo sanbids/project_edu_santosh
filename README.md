@@ -4,33 +4,33 @@ Hey, Santosh! 🌟 Welcome to the journey of creating an incredible study abroad
 
 ### Phase 1: Initial Development
 
-- [x] **Landing Page**  
+- [ ] **Landing Page**  
   - Design an engaging landing page highlighting services and encouraging exploration.
 
-- [x] **About Page**  
+- [ ] **About Page**  
   - Introduce Mr. Santosh Pokhrel and the consultancy's mission.
 
-- [x] **Course Page**  
+- [ ] **Course Page**  
   - Display available courses with details and benefits.
 
-- [x] **Contact Page**  
+- [ ] **Contact Page**  
   - Provide contact information and inquiry forms.
 
-- [x] **Blog Post Page**  
+- [ ] **Blog Post Page**  
   - Set up a platform for sharing valuable insights and updates.
 
 ### Phase 2: Enhanced Functionality
 
-- [x] **AI Functionality**  
+- [ ] **AI Functionality**  
   - Implement AI features to enhance user experience.
 
-- [x] **Chat About Website Page**  
+- [ ] **Chat About Website Page**  
   - Inform users about website functionalities.
 
-- [x] **Summarize Functionality**  
+- [ ] **Summarize Functionality**  
   - Develop a feature to summarize essential information.
 
-- [x] **Login and Sign-Up Pages**  
+- [ ] **Login and Sign-Up Pages**  
   - Create secure authentication pages.
 
 - [ ] **User Dashboard**  
