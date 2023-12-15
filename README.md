@@ -4,7 +4,7 @@ Hey, Santosh! 🌟 Welcome to the journey of creating an incredible study abroad
 
 ### Phase 1: Initial Development
 
-- [ ] **Landing Page**  
+- [ ] **Landing Page**  (ongoing)
   - Design an engaging landing page highlighting services and encouraging exploration.
 
 - [ ] **About Page**  
