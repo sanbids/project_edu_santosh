@@ -1,9 +1,10 @@
 import React from "react";
 import { Button } from "@/components/ui/button";
+import Image from "next/image";
 export default function HeaderContent() {
   return (
-    <header className="flex justify-between items-center py-16 px-2">
-      <div className="max-w-xl space-y-6">
+    <header className="flex items-center py-16 px-2">
+      <div className="max-w-xl space-y-6 p-5">
         <h1 className="text-6xl font-bold readHeading">
           Hello! I'm <span className="span">Santosh Pokhrel</span>{" "}
         </h1>
@@ -28,16 +29,16 @@ export default function HeaderContent() {
         </div>
       </div>
       <div className="hidden lg:block">
-        <img
+        <Image
           alt="Santosh img"
           className="h-[400px] w-[300px] object-cover rounded-lg"
-          height="400"
-          src="/placeholder.svg"
+          height={400}
+          src="/kha.pn"
           style={{
             aspectRatio: "300/400",
             objectFit: "cover",
           }}
-          width="300"
+          width={300}
         />
       </div>
     </header>

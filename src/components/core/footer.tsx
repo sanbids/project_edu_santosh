@@ -11,7 +11,7 @@ function Footer() {
   ];
   return (
     <>
-      <footer className="cardbg rounded-xl m-2">
+      <footer className="cardbg rounded-xl mt-5">
         <div className="container md:mx-auto pt-10 pb-3">
           {/* footer div all */}
           <div className="flex justify-between flex-col md:flex-row  w-full md:items-start  md:gap-[5rem]">
